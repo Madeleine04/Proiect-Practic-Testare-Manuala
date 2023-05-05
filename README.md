@@ -82,13 +82,13 @@ https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
 - Postman collection with the API methods was created 
 - Authorization token was created accessing the API and it is valid 
 
-Task                                         Date                      Name/Team member
-Run functional test cases for                28.04. 2023               Alexandra Perja
-Job submenu of Admin module 
-
-Run GUI test cases for                       02.05. 2023               Anca Pop 
-Job submenu of Admin module 
+### 3.9 Schedule
+A test schedule includes the testing steps or tasks, the target start and end date and responsibilities. 
 
 
+| Task  | Date | Team member |
+|---|---|---|
+| Run functional test cases for Job submenu of Admin module  | 28.04.2023 | Alexandra Perja|
+| Run GUI test cases for Job submenu of Admin module | 02.05.2023 | Anca Pop | 
 
 
