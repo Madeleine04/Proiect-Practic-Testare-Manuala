@@ -41,4 +41,4 @@ Orange HRM *project*.
 
 ![Test Conditions](https://github.com/Madeleine04/Proiect-Practic-Testare-Manuala/blob/main/Poza%20GitHub.png)
 
-
+The test cases can be found here [Test Case no.1 ](https://github.com/Madeleine04/Proiect-Practic-Testare-Manuala/blob/main/Poza%202.png)
