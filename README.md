@@ -37,4 +37,8 @@ Orange HRM **project**.
 
 Orange HRM *project*.
 
+## This are the test conditions
+
+![Test Conditions](https://github.com/Madeleine04/Proiect-Practic-Testare-Manuala/blob/main/Poza%20GitHub.png)
+
 
