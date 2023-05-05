@@ -64,4 +64,31 @@ The test cases can be found here [Test Case no.1 ](https://github.com/Madeleine0
      3.6 Test case results
      3.7 Bugs report
      3.8 Test completion report
+     
+  ### 1. Introduction
+This test plan document describes the strategies, process, workflows and methodologies used to plan, organize, execute and manage testing process for OrangeHRM.
+
+  #### 1.1 Project Objective
+The scope of the final project for ITF Manual Testing Course is to use all gained knowledge through the course and apply them in practice, using a live application. 
+
+#### 2.4 Test implementation
+Verify if the following elements are ready before test execution:
+- Test environment is up and running: 
+
+https://opensource-demo.orangehrmlive.com/web/index.php/auth/login 
+- Access to test environment is given: username Admin, password: admin 123
+- Cycle summary was created 
+- Test cases were added to the cycle summary 
+- Postman collection with the API methods was created 
+- Authorization token was created accessing the API and it is valid 
+
+Task                                         Date                      Name/Team member
+Run functional test cases for                28.04. 2023               Alexandra Perja
+Job submenu of Admin module 
+
+Run GUI test cases for                       02.05. 2023               Anca Pop 
+Job submenu of Admin module 
+
+
+
 
